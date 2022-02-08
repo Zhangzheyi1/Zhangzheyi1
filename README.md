@@ -12,7 +12,6 @@ Good++项目是由几个程序员利用业余时间发起的，收集那些githu
 ## 期刊
 
 * ##### [第十四期](https://github.com/DeformedSteel/good/blob/master/content/14.md)
-* 
 * ##### [第十三期](https://github.com/DeformedSteel/good/blob/master/content/13.md)
 * ##### [第十二期](https://github.com/DeformedSteel/good/blob/master/content/12.md)
 * ##### [第十一期](https://github.com/DeformedSteel/good/blob/master/content/11.md)
